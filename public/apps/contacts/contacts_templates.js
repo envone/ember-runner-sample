@@ -1,2 +1,2 @@
 
-Ember.TEMPLATES['main'] = Ember.Handlebars.compile('My main template');
+Ember.TEMPLATES['main'] = Ember.Handlebars.compile('Contact App Template');
