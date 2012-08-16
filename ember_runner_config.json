@@ -1,0 +1,13 @@
+{
+  "vendors": {
+    "distributions": {
+      "shared": ["shared/packages/ui", "shared/packages/shared"]
+    }
+  },
+
+  "server": {
+    "proxy": {
+      "useProxy": true
+    }
+  }
+}

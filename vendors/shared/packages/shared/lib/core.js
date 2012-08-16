@@ -1,0 +1,3 @@
+Shared = Ember.Namespace.create({
+  
+});
